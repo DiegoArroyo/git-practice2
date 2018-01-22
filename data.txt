@@ -1,3 +1,3 @@
 Name: Diego Arroyo
 Age: 23
-Favorite Color: White
+Favorite Color: Black
